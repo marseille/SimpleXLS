@@ -1,0 +1,13 @@
+{
+  "name": "simple-xls",
+  "version": "0.0.1",
+  "description": "The simplest straight forward XLS export I can think of.",  
+  "author": "Henryk Tunguz",    
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marseille/SimpleXLS.git"
+  },
+  "dependencies": {
+    "memory-streams": "^0.1.0",    
+  }  
+}
